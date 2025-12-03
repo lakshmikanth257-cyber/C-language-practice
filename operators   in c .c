@@ -5,4 +5,5 @@ int main() {
     int c = a++ + ++a + b++ + ++b;
     printf("a=%d b=%d c=%d", a, b, c);
     return 0;
+    
 }
